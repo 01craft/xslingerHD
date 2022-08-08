@@ -1,5 +1,5 @@
 # xslingerHD
-Simple Space War style action game for the Apple IIgs that uses text modes of the vidHD HDMI video card.
+Simple SpaceWar!-style action game for the Apple IIgs that uses the extended text modes of the vidHD HDMI video card.
 
 
 
