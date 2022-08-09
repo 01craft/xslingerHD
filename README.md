@@ -34,6 +34,7 @@ System Requirements:
        Set to Your Card if not in Slot 3, (I think!)
     
 Recommended:
+
     - Stereo Card (panning sounds, funky title jam)
     - large-sized HDMI monitor (tiny sprites, remember?)
     - SNES MAX - it's a two player game, and it really needs two quality
