@@ -39,7 +39,7 @@ Recommended:
     - large-sized HDMI monitor (tiny sprites, remember?)
     - SNES MAX - it's a two player game, and it really needs two quality
       controllers for the best gameplay 
-    - Accelerator (only makes a small difference though)
+    - Zip GSX or TranswarpGS (only makes a small difference though)
   
 The game implements several little "hacks" to make it possible - so it 
 should be considered to be somewhat experimental:
