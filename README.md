@@ -14,13 +14,14 @@ text, made of tiny 1080p-sized pixels, controlled by an Apple II!
 
 There are significant performance drawbacks to using these text modes
 for an action game, which is why the "sprites" are quite small, and the
-total number of moving objects must be kept to a minimum.
+total number of moving objects must be kept to a minimum or the game
+will begin to slow down noticeably. 
 It was still a cool experiment and I hope it's fun to play anyway!
  
 IMPORTANT: This beta/demo is not GS/OS friendly, please don't launch from
 GS/OS or expect it to respect what might already be in RAM!
 
-IMPORTANT: Don't enter the IIgs Control Panel while the game is launched
+IMPORTANT: Do not enter the IIgs Control Panel while the game is launched
 (because the extended text modes are active at all times in XSlinger). 
 If you do, you'll need a RESET to get back to BYE. You can pause a game
 in progress with ESC (and then Apple+Q to quit to the main menu).
@@ -63,7 +64,7 @@ one is installed).  I'm mentioning this because some people have never
 tried to engage the text modes on their machine, so this could be
 their first experience with it.
   
-Thanks for trying the game!
+Thanks for trying my little game...
   
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/40877410/183492444-4010a592-c4b4-4dc9-bb47-a3b6e1664124.png">
