@@ -7,7 +7,7 @@ Simple SpaceWar!-style action game for the Apple IIgs that uses the extended tex
 Hello...
     
 This game uses the vidHD card's extended text modes as if they were a new 
-grahics mode for the Apple IIgs.  These modes were in no way intended
+graphics mode for the Apple IIgs.  These modes were in no way intended
 for this purpose for several reasons.
 However, it is interesting seeing the full 16:9 screen populated with
 text, made of tiny 1080p-sized pixels, controlled by an Apple II! 
