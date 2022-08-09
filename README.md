@@ -41,7 +41,7 @@ Recommended:
       needs two quality controllers for the best gameplay 
     - Zip GSX or TranswarpGS (does not make a big difference though)
       (Note, the vidHD text modes do not appear to be AppleSqueezer
-      compatible, probably due to DMA compatibility)
+      compatible, probably due to DMA incompatibility)
   
 The game implements several little "hacks" to make it possible - so it 
 should be considered to be somewhat experimental:
