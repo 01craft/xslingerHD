@@ -29,17 +29,17 @@ in progress with ESC (and then Apple+Q to quit to the main menu).
 System Requirements:
   
     - Apple IIgs with 2 MB of RAM
-    - vidHD card in any supported slot for your ROM
-       (Slot 1-6 for ROM 3, Slot 3 for ROM 01)
-       Set to Your Card if not in Slot 3, (I think!)
+    - vidHD card (fw 1.15) in any supported slot for
+      your ROM (Slot 1-6 for ROM 3, Slot 3 for ROM 01)
+      Set to Your Card if not in Slot 3
     
 Recommended:
 
     - Stereo Card (panning sounds, funky title jam)
     - large-sized HDMI monitor (tiny sprites, remember?)
-    - SNES MAX - it's a two player game, and it really needs two quality
-      controllers for the best gameplay 
-    - Zip GSX or TranswarpGS (only makes a small difference though)
+    - SNES MAX - it's a two player game, and it *really*
+      needs two quality controllers for the best gameplay 
+    - Zip GSX or TranswarpGS (does not make a big difference though)
   
 The game implements several little "hacks" to make it possible - so it 
 should be considered to be somewhat experimental:
@@ -63,7 +63,9 @@ and/or do not engage properly on some hardware combinations.  If
 you encounter this, try another IIgs (or test without a TWGS if
 one is installed).  I'm mentioning this because some people have never
 tried to engage the text modes on their machine, so this could be
-their first experience with it.
+their first experience with it. If you have a problem, try just 
+enabling the text modes from BASIC.SYSTEM and seeing if you can view
+the different resolutions, CATALOG a disk, etc. 
   
 Thanks for trying my little game...
   
